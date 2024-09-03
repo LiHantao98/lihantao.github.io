@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I’m Hantao LI (李 瀚韜)! Welcome to my personal website! :)
+Hi there, I’m Hantao LI (李 瀚韜・リ　カントウ)! Welcome to my personal website! :)
 
 I am currently a PhD student at the Graduate School of Agricultural and Life Sciences, The University of Tokyo, supervised by Associate Professor Takuya Hiroshima. Before moving to Japan, I was a visiting student at the Global Aqua Remote Sensing (GARS) laboratory at Southern University of Science and Technology, supervised by Professor Lian Feng. Additionally, I worked as a research assistant at the Subdivision of Urban-Regional Science and Geospatial Artificial Intelligence, School of Urban and Environmental Sciences at Peking University, under the supervision of Assistant Professor Zhaoya Gong.
 
