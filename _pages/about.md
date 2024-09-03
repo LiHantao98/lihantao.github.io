@@ -17,6 +17,9 @@ In addition, I am deeply concerned with the impacts of climate change on forest 
 
 Publication
 ======
+**In preparation**
+- Potential for Constructing GEDI Forest Structure Models in Japanese Forests Using Simulated GEDI Data ***(We are looking for collaborators with expertise in statistical learning.)***
+
 **Peer-reviewed**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. (IF:4.2)
 - **Li H**, Kato T, Hayashi M, et al. Using multisource satellite products to estimate forest aboveground biomass in Oita prefecture: a novel approach with improved accuracy and computational efficiency[J]. Geocarto International, 2022: 1-20.(IF:3.3)
