@@ -25,3 +25,6 @@ Publication
 - **Li H**, Kato T, Hayashi M, et al. Using multisource satellite products to estimate forest aboveground biomass in Oita prefecture: a novel approach with improved accuracy and computational efficiency[J]. Geocarto International, 2022: 1-20.(IF:3.3)
 - **Li H**, Li X, Kato T, et al. Accuracy Assessment of GEDI Terrain Elevation, Canopy Height, and Aboveground Biomass Density Estimates in Japanese Artificial Forests[J]. Science of Remote Sensing, 2024: 100144.(IF:5.7)
 - **Li H**, Hiroshima T, Li X, et al. High-resolution mapping of forest structure and carbon stock using multi-source remote sensing data in Japan[J]. Remote Sensing of Environment, 2024, 312: 114322.(IF:11.1)
+
+Internships
+======
