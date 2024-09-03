@@ -12,9 +12,9 @@ title                    : "Hantao LI / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hantao LI"
 description              : &description "personal description"
-url                      : https://lihantao98.github.io/ # the base hostname & protocol for your site e.g. "https://lihantao98.github.io/"
+url                      : https://lihantao98.github.io # the base hostname & protocol for your site e.g. "https://lihantao98.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lihantao98.github.io/"
+repository               : "lihantao98.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
