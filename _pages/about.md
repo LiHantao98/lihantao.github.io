@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there, I’m Hantao LI (李 瀚韜)! Welcome to my personal website! :)
+
+I am currently a PhD student at the Graduate School of Agricultural and Life Sciences, The University of Tokyo, supervised by Associate Professor Takuya Hiroshima. Before moving to Japan, I was a visiting student at the Global Aqua Remote Sensing (GARS) laboratory at Southern University of Science and Technology, supervised by Professor Lian Feng. Additionally, I worked as a research assistant at the Subdivision of Urban-Regional Science and Geospatial Artificial Intelligence, School of Urban and Environmental Sciences at Peking University, under the supervision of Assistant Professor Zhaoya Gong.
+
+My research specializes in the integration of remote sensing technologies and artificial intelligence. My work revolves around monitoring and analyzing forest structures and dynamics on various scales, from local ecosystems to national landscapes. By leveraging cutting-edge satellite and airborne LiDAR data, combined with advanced machine learning models, I aim to provide high-precision 3D data that supports effective forest management and climate action.
+
+In addition, I am deeply concerned with the impacts of climate change on forest disturbances and the assessment of forest resilience in the face of natural disasters. I strive to bridge the gap between complex data and actionable insights to support sustainable forest management and inform climate action strategies.
 
 A data-driven personal website
 ======
