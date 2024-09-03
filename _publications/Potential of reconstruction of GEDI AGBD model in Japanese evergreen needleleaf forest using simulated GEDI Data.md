@@ -1,3 +1,10 @@
+---
+title: "Sample Publication"
+date: 2024-09-03
+---
+
+
+
 # Potential of reconstruction of GEDI AGBD model in Japanese evergreen needleleaf forest using simulated GEDI Data
 
 ## **Research Flow**
