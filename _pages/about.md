@@ -28,3 +28,17 @@ Publication
 
 Internships
 ======
+-  OPPO Research Institute, Shenzhen, China; Machine Learning Researcher Intern; December 2021 – February 2022. Developed deep learning models based on large-scale user behavior data extracted from databases to classify active and inactive users. Completed and debugged relevant machine learning code.
+-  School of Urban and Environmental Sciences, Peking University, Shenzhen, China; Research Assistant; February 2022 – May 2022. Extracted relevant user flow data from mobile user movement data according to project requirements, and performed data cleaning, organization, and analysis.
+
+Projects and awards
+======
+- Support for Pioneering Research Initiated by Next Generation (SPRING) of Japan Science and Technology Agency (JST) from 2024-2026 (expected) @Utokyo
+- World-leading Innovative Graduate Study Program on Global Leadership for Social Design and Management (WINGS-GSDM) from 2023-2026 (expected) @Utokyo
+
+Skills
+======
+- **Language:** Japanese (Conversation with JLPT.N2), Chinese -Cantonese, Mandarin (native), English (Fluent with TOEFL.95).
+- **Programming:** Python, Javascript, mySQL
+- **Interests:** Travel, photograph, Table tennis
+
