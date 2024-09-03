@@ -4,11 +4,11 @@
 
 **Type1**
 
-![FLOW](C:\Users\l\Desktop\paper3rd\FLOW.jpg)
+
 
 **Type2**
 
-![FLOW_2](C:\Users\l\Desktop\paper3rd\FLOW_2.jpg)
+
 
 ## How GEDI team develop the AGB models
 
@@ -18,7 +18,7 @@ Duncanson, L., et al. (2022). "Aboveground biomass density models for NASA’s G
 
 Hancock, S., et al. (2019). "The GEDI simulator: A large‐footprint waveform lidar simulator for calibration and validation of spaceborne missions." Earth and Space Science 6(2): 294-310.
 
-![FLOW_GEDI](C:\Users\l\Desktop\paper3rd\FLOW_GEDI.jpg)
+
 
 #### Filtering:
 
@@ -44,7 +44,7 @@ Kellner, J. R., et al. (2023). "Algorithm theoretical basis document for GEDI fo
 
 **East Asia lacks of training data for developing GEDI AGB models.**
 
-![image-20240229105410177](C:\Users\l\AppData\Roaming\Typora\typora-user-images\image-20240229105410177.png)
+
 
 ## ALS-DATA needed files
 
