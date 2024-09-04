@@ -17,7 +17,7 @@ In addition, I am deeply concerned with the impacts of climate change on forest 
 
 News!!
 ======
-- **2024.09.04**: 🚀 I am actively seeking internships related to machine learning or remote sensing technology.
+- **2024.09.04**: 🚀 I am actively seeking internships related to machine learning or remote sensing technology.機械学習またはリモートセンシング技術に関連するインターンシップを積極的に探しています！ Please feel free to contact with me! お気軽にご連絡ください！
 
 Publication
 ======
