@@ -17,7 +17,7 @@ In addition, I am deeply concerned with the impacts of climate change on forest 
 
 News!!
 ======
-- **2024.09.04**: <span style="color: red;">I am actively seeking internships related to machine learning or remote sensing technology.</span>
+- **2024.09.04**: 🚀 I am actively seeking internships related to machine learning or remote sensing technology.
 
 Publication
 ======
