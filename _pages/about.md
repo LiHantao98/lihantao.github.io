@@ -15,6 +15,10 @@ My research specializes in the integration of remote sensing technologies and ar
 
 In addition, I am deeply concerned with the impacts of climate change on forest disturbances and the assessment of forest resilience in the face of natural disasters. I strive to bridge the gap between complex data and actionable insights to support sustainable forest management and inform climate action strategies.
 
+News!!
+======
+- **2024.09.04**: <span style="color: red;">I am actively seeking internships related to machine learning or remote sensing technology.</span>
+
 Publication
 ======
 **In preparation**
