@@ -17,13 +17,14 @@ In addition, I am deeply concerned with the impacts of climate change on forest 
 
 News!!
 ======
+- **2025.01.17**: I will no longer continue my internship after March 2025 due to my graduation thesis.
 - **2024.09.04**: 🚀 I am actively seeking internships related to machine learning or remote sensing technology.機械学習またはリモートセンシング技術に関連するインターンシップを積極的に探しています！ Please feel free to contact with me! お気軽にご連絡ください！
 
 Publication
 ======
 **In preparation**
-- Potential for Constructing GEDI Forest Structure Models in Japanese Forests Using Simulated GEDI Data ***(We are looking for collaborators with expertise in statistical learning.)***
-
+-  **Li H**, Li X, Kato T, et al. National-scale Calibrated GEDI AGBD Models for Effective Assessment of Growth Conditions Across Forest Strata. **Submitted to  journal**
+-  Assessing Forest Resilience to Typhoons Using GEDI Data. If you are interested in this topic, please feel free to contact me.
 **Peer-reviewed**
 - **Li H**, Kato T, Hayashi M, et al. Estimation of forest aboveground biomass of two major conifers in Ibaraki Prefecture, Japan, from palsar-2 and sentinel-2 data[J]. Remote Sensing, 2022, 14(3): 468. (IF:4.2)
 - **Li H**, Kato T, Hayashi M, et al. Using multisource satellite products to estimate forest aboveground biomass in Oita prefecture: a novel approach with improved accuracy and computational efficiency[J]. Geocarto International, 2022: 1-20.(IF:3.3)
