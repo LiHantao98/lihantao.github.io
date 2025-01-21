@@ -22,8 +22,8 @@ News!!
 
 Publication
 ======
-**In preparation**
--  **Li H**, Li X, Kato T, et al. National-scale Calibrated GEDI AGBD Models for Effective Assessment of Growth Conditions Across Forest Strata. **Submitted to  journal**
+**In preparation/Submitted/In Review/In Revision**
+-  **Li H**, Li X, Kato T, et al. National-scale Calibrated GEDI AGBD Models for Effective Assessment of Growth Conditions Across Forest Strata. **Under Review**
 -  Assessing Forest Resilience to Typhoons Using GEDI Data. **🚀If you are interested in this topic, please feel free to contact me.**
 
 **Peer-reviewed**
